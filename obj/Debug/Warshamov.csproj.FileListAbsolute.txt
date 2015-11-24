@@ -1,0 +1,13 @@
+D:\Projects\Warshamov\Warshamov\bin\Debug\Warshamov.exe.config
+D:\Projects\Warshamov\Warshamov\bin\Debug\Warshamov.exe
+D:\Projects\Warshamov\Warshamov\bin\Debug\Warshamov.pdb
+D:\Projects\Warshamov\Warshamov\obj\Debug\Warshamov.csprojResolveAssemblyReference.cache
+D:\Projects\Warshamov\Warshamov\obj\Debug\MainWindow.baml
+D:\Projects\Warshamov\Warshamov\obj\Debug\MainWindow.g.cs
+D:\Projects\Warshamov\Warshamov\obj\Debug\App.g.cs
+D:\Projects\Warshamov\Warshamov\obj\Debug\Warshamov_MarkupCompile.cache
+D:\Projects\Warshamov\Warshamov\obj\Debug\Warshamov.g.resources
+D:\Projects\Warshamov\Warshamov\obj\Debug\Warshamov.Properties.Resources.resources
+D:\Projects\Warshamov\Warshamov\obj\Debug\Warshamov.csproj.GenerateResource.Cache
+D:\Projects\Warshamov\Warshamov\obj\Debug\Warshamov.exe
+D:\Projects\Warshamov\Warshamov\obj\Debug\Warshamov.pdb
