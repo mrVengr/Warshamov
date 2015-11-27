@@ -60,7 +60,7 @@ namespace Warshamov {
         [System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [System.CodeDom.Compiler.GeneratedCodeAttribute("PresentationBuildTasks", "4.0.0.0")]
         public static void Main() {
-            Warshamov.App app = new Warshamov.App();
+            WarshamovEncode.App app = new WarshamovEncode.App();
             app.InitializeComponent();
             app.Run();
         }
